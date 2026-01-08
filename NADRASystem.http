@@ -1,0 +1,6 @@
+@NADRASystem_HostAddress = http://localhost:5197
+
+GET {{NADRASystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
